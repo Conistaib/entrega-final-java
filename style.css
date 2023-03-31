@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+    color: hotpink;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.breadcrumb{
+    color: hotpink;
+}
+
+button{
+    background-color: hotpink;
+    color: whitesmoke;
+    border-color: hotpink;
+}
+
+.dark{
+    background-color: black;
+    color: hotpink;
+}
